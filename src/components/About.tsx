@@ -2,8 +2,8 @@ import React from 'react';
 import { GYM_CONFIG } from '../data/gymConfig';
 import { Target, Users, Sparkles, Trophy } from 'lucide-react';
 import strengthImg from '../assets/images/regenerated_image_1792397313791.jpg';
-import cardioImg from '../assets/images/olympia_cardio_functional_1792230990753.jpg';
-import barbellImg from '../assets/images/olympia_barbell_detail_1792230990104.jpg';
+import cardioImg from '../assets/images/olympia_cardio_functional_1792402793126.jpg';
+import barbellImg from '../assets/images/olympia_barbell_detail_1792402792778.jpg';
 
 export const About: React.FC = () => {
   return (
