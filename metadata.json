@@ -1,0 +1,6 @@
+{
+  "name": "Olympia Fitness Centre",
+  "description": "Premier modern gym and strength training centre in Thrissur. Build Your Strength. Transform Your Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
